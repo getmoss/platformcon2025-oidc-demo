@@ -10,4 +10,4 @@ This repository shows how to use OpenID Connect (OIDC) to authenticate GitHub Ac
 
 # Article
 
-This demo is part of the [Secure Deployments on Github using OIDC (OpenID Connect)](#)
+This demo is part of the [Secure Deployments on Github using OIDC (OpenID Connect)](https://medium.com/mossfinance/secure-deployments-on-github-using-oidc-openid-connect-2dffafccd5db)
